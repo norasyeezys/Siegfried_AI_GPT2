@@ -1,0 +1,9 @@
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+transformers>=4.56.0
+datasets>=2.18.0
+accelerate>=0.30.0
+faiss-cpu>=1.7.4
+sentence-transformers>=2.7.0
+flask>=3.0.0
